@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "payable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "sendToTrans",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "sendTorec",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "sender",
+				"outputs": [
+					{
+						"internalType": "address payable",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"myProject/Asoll.sol": "A"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"myProject/Asoll.sol": {
+			"keccak256": "0xabb025b16bb19022b215343152bf811d74f056c57da7dcd709c0cbdceb945e28",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7f49a8a8122ed5bc63645c16e17e1c6f48b03bdabe8904874b6defbbc58a90e7",
+				"dweb:/ipfs/QmeHEfMJg1eTbr7nZ76HTvo3pHoE7aND7ebUFmn4d9sHer"
+			]
+		}
+	},
+	"version": 1
+}

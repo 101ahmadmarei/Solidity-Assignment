@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "callHelloWorld",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"myProject/Bsoll.sol": "B"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"myProject/Bsoll.sol": {
+			"keccak256": "0x903421c6d855b9e8e5ccc6c3f005446f574c12f7afe722a124240a2a928ce915",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://36c4d97a00287e4f403906c0c65022dbe2f6ac2a350fb0eb3bdda8e6bffd77a4",
+				"dweb:/ipfs/QmWQHjCe9osf443fHEDerRDWW2U6pzv5S6xFiyvwwtqUKb"
+			]
+		}
+	},
+	"version": 1
+}
